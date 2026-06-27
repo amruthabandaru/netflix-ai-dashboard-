@@ -1,5 +1,12 @@
-# 🎬 Netflix InsightGen AI Dashboard
+# 🎬 InsightGenAI – AI-Powered Netflix Analytics Dashboard
 
+## 🌐 Live Demo
+https://netflix-ai-dashboard-icjmz26jmvteyxtmbpzeur.streamlit.app/
+
+## 📂 GitHub Repository
+https://github.com/amruthabandaru/Netflix-AI-Dashboard
+
+---
 An interactive Netflix Analytics Dashboard built using **Python**, **Streamlit**, and **Pandas**. The application enables users to explore Netflix Movies and TV Shows through interactive filters, visualizations, smart recommendations, and AI-inspired insights.
 
 ---
